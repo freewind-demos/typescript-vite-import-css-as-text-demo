@@ -1,4 +1,4 @@
-TypeScript Vite Demo
+TypeScript Vite Import Css as Text Demo
 ====================
 
 ```
